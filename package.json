@@ -1,0 +1,24 @@
+{
+  "name": "node-template-render",
+  "version": "0.0.1",
+  "description": "A simple template renderer with subtemplates and translations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chunksnbits/node-template-render"
+  },
+  "keywords": [
+    "template",
+    "partials",
+    "translations"
+  ],
+  "author": "Daniel Eissing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chunksnbits/node-template-render/issues"
+  },
+  "homepage": "https://github.com/chunksnbits/node-template-render"
+}
